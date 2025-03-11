@@ -1,4 +1,4 @@
-# final-project
+# Ristema Talu Muuseumi andmebaas
 
 
 Minu lõputöö teemaks on kogukonnamuuseumi andmebaasi loomine.
